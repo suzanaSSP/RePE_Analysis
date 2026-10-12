@@ -1,0 +1,4 @@
+Probing -> What concepts has the model learned internally:
+    - Prompt model
+    - Freeze certain activations
+    - Train classifier to classify what category the activations are. This is to know what they represent.
